@@ -60,6 +60,8 @@
 
 </details>
 
+## Download Release ☞ [Install Media BS OC.dmg ](https://github.com/chris1111/Install-Media-BS-OC/releases/tag/V1)
+
 
 
 
