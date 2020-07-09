@@ -17,7 +17,7 @@
 ![captu109](https://user-images.githubusercontent.com/6248794/87083522-c6d42c80-c1fa-11ea-9a13-372466d019e1.png)
 
 ### Follow every steps for the OpenCore Installer
-⬇︎
+- ⬇︎
 - ⬇︎
 - ⬇︎
 <details> 
@@ -43,9 +43,9 @@
 - 4- Reboot again on the Big Sur SSD disk ➦ (Wait for the last line of verbose mode and your screen will open)
 
 ## See my Installation on HP ProDesk 600 G1
-⬇︎
-⬇︎
-⬇︎
+- ⬇︎
+- ⬇︎
+- ⬇︎
 <details> 
   <summary>View Images  </summary>
 	
