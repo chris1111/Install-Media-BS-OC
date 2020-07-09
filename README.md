@@ -19,6 +19,7 @@
 ![Screen Shot 1](https://user-images.githubusercontent.com/6248794/87084124-b53f5480-c1fb-11ea-80eb-c2e3c65b6e53.png)
 ![Screen Shot 2](https://user-images.githubusercontent.com/6248794/87084040-9214a500-c1fb-11ea-8a2c-08ee4485e246.png)
 
+## Installation Stsps
 - 1- Boot on Install macOS Big Sur Beta ➦ (Wait for the last line of verbose mode and your screen will open)
 - 2- Boot on Install macOS
 - 3- Boot on the Big Sur SSD
