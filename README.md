@@ -2,7 +2,7 @@
 
 ![webp_n13](https://user-images.githubusercontent.com/6248794/87083458-a5734080-c1fa-11ea-869f-ee69269b3e5a.gif)
 
-![captu109](https://user-images.githubusercontent.com/6248794/87083481-b15f0280-c1fa-11ea-9c29-978b397f34b1.png)
+
 
 ![captu109](https://user-images.githubusercontent.com/6248794/87083522-c6d42c80-c1fa-11ea-9a13-372466d019e1.png)
 ![captu110](https://user-images.githubusercontent.com/6248794/87083524-c76cc300-c1fa-11ea-95c8-76e4de05698d.png)
