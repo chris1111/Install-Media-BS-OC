@@ -18,10 +18,10 @@
 
 ### Follow every steps for the OpenCore Installer
 ⬇︎
-⬇︎
-⬇︎
+- ⬇︎
+- ⬇︎
 <details> 
-  <summary>View list  </summary>
+  <summary>View Images </summary>
 
 ![captu110](https://user-images.githubusercontent.com/6248794/87083524-c76cc300-c1fa-11ea-95c8-76e4de05698d.png)
 
@@ -47,7 +47,7 @@
 ⬇︎
 ⬇︎
 <details> 
-  <summary>View list  </summary>
+  <summary>View Images  </summary>
 	
 ![img_2217](https://user-images.githubusercontent.com/6248794/87085381-ca1ce780-c1fd-11ea-9dab-94c3752153d3.jpg)
 
