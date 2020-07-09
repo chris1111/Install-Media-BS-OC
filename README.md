@@ -57,12 +57,13 @@
 ![screen34](https://user-images.githubusercontent.com/6248794/87085387-cb4e1480-c1fd-11ea-9c56-be48da12adbc.png)
 
 
-
 </details>
 
-## This program is not responsible for any damage or machine that does not boot anymore.
+#### This program is not responsible for any damage or machine that does not boot anymore.
 
 ### Download Release ☞ [Install Media BS OC.dmg ](https://github.com/chris1111/Install-Media-BS-OC/releases/tag/V1)
+
+#### Usefull link How to use ☞ [Set Up OpenCore](https://dortania.github.io/OpenCore-Desktop-Guide/)
 
 
 
