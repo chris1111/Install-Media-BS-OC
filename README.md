@@ -10,12 +10,12 @@
 
 ## Test by me under Mojave and Catalina for USB creation.
 
-![Capture d’écran, le 2020-07-09 à 19 04 18](https://user-images.githubusercontent.com/6248794/87099160-10327500-c217-11ea-8084-9825bc675959.png)
-
 ![webp_n13](https://user-images.githubusercontent.com/6248794/87083458-a5734080-c1fa-11ea-869f-ee69269b3e5a.gif)
 
 
 ### Follow every steps for the USB Installer
+![Capture d’écran, le 2020-07-09 à 19 04 18](https://user-images.githubusercontent.com/6248794/87099160-10327500-c217-11ea-8084-9825bc675959.png)
+
 ![captu109](https://user-images.githubusercontent.com/6248794/87083522-c6d42c80-c1fa-11ea-9a13-372466d019e1.png)
 
 ### Follow every steps for the OpenCore Installer
