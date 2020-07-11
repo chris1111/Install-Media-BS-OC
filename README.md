@@ -1,8 +1,11 @@
 # Install Media BS OC
 
 ### Credit: ☞ [acidanthera OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)
+### Credit: ☞ [Packager chris1111](https://www.hackintosh-montreal.com/t10355-install-media-bs-oc)
 ### Credit: ☞ [Tester arcade33](https://www.hackintosh-montreal.com/t10355-install-media-bs-oc#130312)
 ### Credit: ☞ [Tester jmtt1001](https://www.hackintosh-montreal.com/t10355p50-install-media-bs-oc#130373)
+
+
 
 
 
