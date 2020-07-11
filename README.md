@@ -1,6 +1,12 @@
 # Install Media BS OC
 
 ### Credit: ☞ [acidanthera OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)
+### Credit: ☞ [Tester arcade33](https://www.hackintosh-montreal.com/t10355-install-media-bs-oc#130312)
+### Credit: ☞ [Tester jmtt1001](https://www.hackintosh-montreal.com/t10355p50-install-media-bs-oc#130373)
+
+
+
+
 
 ###  What you need
 - SIP and Gatekeeper must be deactivated
