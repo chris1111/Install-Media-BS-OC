@@ -5,12 +5,6 @@
 ### Credit: ☞ [Tester arcade33](https://www.hackintosh-montreal.com/t10355-install-media-bs-oc#130312)
 ### Credit: ☞ [Tester jmtt1001](https://www.hackintosh-montreal.com/t10355p50-install-media-bs-oc#130373)
 
-
-
-
-
-
-
 ###  What you need
 - SIP and Gatekeeper must be deactivated
 - You need a 16 Gig USB stick or a faster external drive.
@@ -81,10 +75,3 @@
 ### Download Release ☞ [Install Media BS OC.dmg ](https://github.com/chris1111/Install-Media-BS-OC/releases/tag/V1)
 
 #### Usefull link How to use ☞ [Set Up OpenCore](https://dortania.github.io/OpenCore-Desktop-Guide/)
-
-
-
-
-
-
-
