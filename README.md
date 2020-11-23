@@ -25,6 +25,8 @@
 - ⬇︎
 - ⬇︎
 - ⬇︎
+NOTE: If you think your hardware boot BS without DSDT simply unchek option in config.plist
+
 <details> 
   <summary>View Images </summary>
 
