@@ -1,4 +1,5 @@
 # Install Media BS OC
+ ### Update 06 Dec 2020 Install Media BS OC-V2 Update OpenCore
 
 ### Credit: ☞ [acidanthera OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)
 ### Credit: ☞ [Packager chris1111](https://www.hackintosh-montreal.com/t10355-install-media-bs-oc)
@@ -74,6 +75,6 @@ NOTE: If you think your hardware boot BS without DSDT simply unchek option in co
 
 #### This program is not responsible for any damage or machine that does not boot anymore.
 
-### Download Release ☞ [Install Media BS OC.dmg ](https://github.com/chris1111/Install-Media-BS-OC/releases/tag/V1)
+### Download Release ☞ [Install Media BS OC-V2.dmg ](https://github.com/chris1111/Install-Media-BS-OC/releases/tag/V2)
 
 #### Usefull link How to use ☞ [Set Up OpenCore](https://dortania.github.io/OpenCore-Desktop-Guide/)
