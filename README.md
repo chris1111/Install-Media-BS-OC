@@ -1,7 +1,8 @@
 # Install Media BS OC
  ### Update 06 Dec 2020 Install Media BS OC-V2 Update OpenCore
 
-### Credit: ☞ [acidanthera OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) ☞ [Packager chris1111](https://www.hackintosh-montreal.com/t10355-install-media-bs-oc) ☞ [Tester arcade33](https://www.hackintosh-montreal.com/t10355-install-media-bs-oc#130312) ☞ [Tester jmtt1001](https://www.hackintosh-montreal.com/t10355p50-install-media-bs-oc#130373)
+### Credit: ☞ [acidanthera OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) ☞ [Packager chris1111](https://www.hackintosh-montreal.com/t10355-install-media-bs-oc) ☞ [Tester arcade33](https://www.hackintosh-montreal.com/t10355-install-media-bs-oc#130312) ☞ 
+[Tester jmtt1001](https://www.hackintosh-montreal.com/t10355p50-install-media-bs-oc#130373)
 
 ###  What you need
 - SIP and Gatekeeper must be deactivated
